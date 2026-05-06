@@ -1,4 +1,8 @@
-<h2 align="left">Hi, My name is Lucilia Alves 👋<br>I'm a Systems Information student passionate about technology and always eager to learn new things.<br><br>I love exploring new concepts, solving problems, and satisfying my curiosity through coding and research.<br>Currently, I'm focused on improving my skills in programming, databases, and software development.<br><br>I'm always open to learning, collaboration, and new challenges 🚀</h2>
+<h2 align="left">Hi, My name is Lucilia Alves 👋<br>Sou estudante de Sistemas de Informação apaixonada por tecnologia e sempre disposta a aprender coisas novas.
+Adoro explorar novos conceitos, resolver problemas e satisfazer minha curiosidade por meio de programação e pesquisa.
+Atualmente, estou focada em melhorar minhas habilidades em programação, bancos de dados e desenvolvimento de software.
+
+Estou sempre aberta a aprender, colaborar e enfrentar novos desafios 🚀</h2>
 
 ###
 
